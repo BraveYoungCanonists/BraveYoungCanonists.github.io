@@ -8,4 +8,4 @@ permalink: /files/
 
 Links to files, PDFs, and so forth.
 
-[Testing](/files/ECCLESIASTICAL ABBREVIATIONS.pdf)
+[Testing](/ECCLESIASTICAL ABBREVIATIONS.pdf)
